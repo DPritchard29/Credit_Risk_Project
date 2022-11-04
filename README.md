@@ -1,8 +1,8 @@
 # Credit Risk Calculator:
-* I Created a tool that models and estimates credit risk based on credit data provided by Data Camp.
+* I created a tool that models and estimates credit risk based on credit data provided by Data Camp.
 * The dataset contained over 32,000 observations with 11 features.
 * I then tested both logistic regression and gradient boosted tree models to reach the produce best metrics. 
-* I finally built a client facing API using flask.
+* Finally I built a client facing API using Flask.
 
 ## Code Information / Resources Used:
 **Python Version:** 3.9.7
